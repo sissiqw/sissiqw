@@ -1,4 +1,4 @@
-# sissqw
+# YOONJIN
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=YOONJIN%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
 ### 🛠 Tech Stack  
@@ -6,6 +6,11 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sissiqw&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sissiqw&layout=compact&theme=radical)
 
 
 

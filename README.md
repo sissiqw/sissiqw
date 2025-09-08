@@ -93,7 +93,7 @@
 
 ## ✉️ Contact
 - Email : **(jason9997778@gmail.com)**
-- Blog/Notion : **(링크)**
+- Blog/Notion : **(https://www.notion.so/59af3798cf64473494e3c7f4f627af84)**
 - LinkedIn : **(선택)**
 
 <!-- 끝 -->

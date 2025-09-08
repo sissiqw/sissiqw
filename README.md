@@ -1,8 +1,4 @@
 <!-- 헤더 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=YOONJIN%20Github&fontSize=50&fontAlign=50&fontAlignY=40" />
-</p>
-
 <h1 align="center">Hi, I'm YOONJIN (sissiqw) 👋</h1>
 
 <p align="center">

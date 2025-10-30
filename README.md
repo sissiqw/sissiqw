@@ -57,12 +57,6 @@ Docker·MySQL·Redis·AWS와 React를 조합해 확장 가능한 서비스를 �
 
 ---
 
-## 📌 Pinned Projects
-
-> 프로젝트를 추가하려면 GitHub에서 저장소를 Pin하세요!
-
----
-
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sissiqw&theme=tokyonight&no-frame=true&row=1&column=7)
